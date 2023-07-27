@@ -1,4 +1,7 @@
 # MouseWiggler
+
+![icon](https://github.com/leledumbo/mousewiggler/assets/270400/65bba630-5f95-462f-b5b7-0d4b632b740a)
+
 is a simple application to periodically send message to make mouse move to prevent screen saver from executing (could be useful in a limited environment like a computer lab with auto logoff :stuck_out_tongue_winking_eye:).
 
 # How to run
