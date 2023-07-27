@@ -1,0 +1,64 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: formmain.rsactive
+msgid "Active"
+msgstr ""
+
+#: formmain.rsapply
+msgctxt "formmain.rsapply"
+msgid "&Apply"
+msgstr ""
+
+#: formmain.rsclicktotoggl
+msgid ""
+"- Click to toggle main form visibility\n"
+"- Right click for menu\n"
+msgstr ""
+
+#: formmain.rsinactive
+msgctxt "formmain.rsinactive"
+msgid "Inactive"
+msgstr ""
+
+#: formmain.rsmousewiggler
+msgid ""
+"Mouse Wiggler\n"
+"- Click to toggle main form visibility\n"
+"- Right click for menu\n"
+msgstr ""
+
+#: formmain.rsstop
+msgid "&Stop"
+msgstr ""
+
+#: tmainform.actionappexit.caption
+msgid "E&xit"
+msgstr ""
+
+#: tmainform.buttontogglewiggle.caption
+msgctxt "TMAINFORM.BUTTONTOGGLEWIGGLE.CAPTION"
+msgid "&Apply"
+msgstr ""
+
+#: tmainform.caption
+msgid "Mouse Wiggler 0.5"
+msgstr ""
+
+#: tmainform.labelactiveinactive.caption
+msgctxt "TMAINFORM.LABELACTIVEINACTIVE.CAPTION"
+msgid "Inactive"
+msgstr ""
+
+#: tmainform.labelseconds.caption
+msgid "seconds"
+msgstr ""
+
+#: tmainform.labelstatus.caption
+msgid "Status:"
+msgstr ""
+
+#: tmainform.labelwiggleevery.caption
+msgid "Wiggle every"
+msgstr ""
+

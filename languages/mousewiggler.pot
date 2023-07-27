@@ -1,0 +1,34 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: formmain.rsactive
+msgid "Active"
+msgstr ""
+
+#: formmain.rsapply
+msgctxt "formmain.rsapply"
+msgid "&Apply"
+msgstr ""
+
+#: formmain.rsclicktotoggl
+msgid ""
+"- Click to toggle main form visibility\n"
+"- Right click for menu"
+msgstr ""
+
+#: formmain.rsinactive
+msgctxt "formmain.rsinactive"
+msgid "Inactive"
+msgstr ""
+
+#: formmain.rsmousewiggler
+msgid ""
+"Mouse Wiggler\n"
+"- Click to toggle main form visibility\n"
+"- Right click for menu"
+msgstr ""
+
+#: formmain.rsstop
+msgid "&Stop"
+msgstr ""
+

@@ -1,0 +1,48 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: formmain.rsactive
+msgid "Active"
+msgstr "Aktif"
+
+#: formmain.rsapply
+msgctxt "formmain.rsapply"
+msgid "&Apply"
+msgstr "&Terapkan"
+
+#: formmain.rsclicktotoggl
+#, fuzzy
+#| msgid ""
+#| "- Click to toggle main form visibility\n"
+#| "- Right click for menu\n"
+msgid ""
+"- Click to toggle main form visibility\n"
+"- Right click for menu"
+msgstr ""
+"- Klik untuk mengalihkan tampilan form\n"
+"- Klik kanan untuk menu\n"
+
+#: formmain.rsinactive
+msgctxt "formmain.rsinactive"
+msgid "Inactive"
+msgstr "Tidak aktif"
+
+#: formmain.rsmousewiggler
+#, fuzzy
+#| msgid ""
+#| "Mouse Wiggler\n"
+#| "- Click to toggle main form visibility\n"
+#| "- Right click for menu\n"
+msgid ""
+"Mouse Wiggler\n"
+"- Click to toggle main form visibility\n"
+"- Right click for menu"
+msgstr ""
+"Mouse Wiggler\n"
+"- Klik untuk mengalihkan tampilan form\n"
+"- Klik kanan untuk menu\n"
+
+#: formmain.rsstop
+msgid "&Stop"
+msgstr "&Berhenti"
+
